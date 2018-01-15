@@ -1,0 +1,120 @@
+﻿DEGRADATION MODELS OF HIGH 
+PERFORMANCE POLYMERS
+Abstract 
+A review of methods and techniques used to predict the properties of: poly(aryletherketone)s 
+(PAEKs), bismaleimide resisns (BMIs) and poly(etherimide) PEI as high performance polymers 
+over time. These polymers, chosen for their resistance to high temperatures and pressures along 
+with chemical inertness have found use in specialised areas of the oil and gas, automotive, 
+aeronautical and healthcare industries. Understanding how these polymers degrade over time 
+can have a big impact on their usefulness and long term cost. 
+
+1.	Introduction
+2.	Modelling and Analysis
+2.1.	Standard Arrhenius modelling of degradation (Control/current standard) 
+2.2.	Based on known/identified chemical mechanisms, used DFT/other computational 
+methods to calculated activation energies / rates
+2.2.1.	Limitations on size of molecules used
+2.2.2.	Requires knowledge of specific reactions
+2.2.3.	Combine values calculated for most impactful reactions to obtain an ‘overall’ 
+degradation value and compare to accelerated data. 
+2.2.4.	Calculate against initial repeat unit and modified (degraded) repeat units 
+2.3.	Stochastic simulation of using rate of Chain Scission and Crosslinking which could inform 
+prediction of mechanical properties. 
+2.3.1.	Prediction of free volume from these simulations  Permeability
+2.3.2.	Existing models?
+3.	Experimental
+3.1.	Degradation Conditions
+3.1.1.	Thermal 
+3.1.2.	Thermo-oxidative 
+3.1.3.	Hot/Wet 
+3.1.4.	H2S
+3.1.5.	Hydrocarbon 
+3.1.6.	Accelerated degradation (TGA)
+3.1.6.1.	Separation of chemical degradation and thermal degradation
+3.1.6.2.	Ramping and isothermal TGA experiments 
+3.1.6.3.	Quantification of Diffusion Limited Oxidation processes
+3.1.7.	Real-time degradation
+3.1.7.1.	Temperature points at maximum use temperature and normal use 
+temperature
+4.	Analysis
+4.1.	Chemical Analysis - Identify specific chemical reactions and their mechanisms under the 
+environmental conditions
+4.1.1.	Solid state NMR
+4.1.2.	FTIR
+4.1.3.	EPR
+4.1.4.	XPS
+4.2.	Morphology / Tertiary structure Measurements 
+4.2.1.	XRD
+4.2.2.	DSC
+4.2.3.	GPC
+4.3.	Predictive Measurements
+4.3.1.	Permeability measurements 
+4.3.2.	SEM / Optical Microscopy
+4.3.2.1.	Track the formation of ‘micro cracks’ which may also impact permeability
+5.	Extension
+5.1.	Comparison to samples from the field
+5.2.	Additional computational models based on access to higher computing power
+5.2.1.	Refinement of stochastic models
+5.3.	Model permeability of novel penetrants
+6.	Conclusions
+ 
+1.	INTRODUCTION
+High performance polymers have found widespread use over the last 50 years, frequently as a 
+replacement for metals in existing technologies. In such applications, these polymers offer 
+reduced weight while offering similar or improved mechanical properties and often strong 
+chemical resistance. While their use is increasing, especially within the aerospace industry, the 
+high cost and manufacturing difficulties associated with them has hampered further adoption. 
+There is no clear definition of what constitutes a ‘high performance’ polymer, as it is dependent on 
+the application. However, commonly this category of materials has high long term durability at 
+elevated temperatures (177oC, 10,000h) without significant loss of its mechanical properties and 
+can withstand temperatures up to 450oC without experiencing rapid thermal decomposition. Such 
+properties are achieved through a combination of chemical bonding forces and their structure 
+frequently includes: high primary bond strength, a rigid aromatic backbone and, significant 
+secondary bonding. For many commercially produced polymers, different grades are available 
+based on the molecular weight achieved during synthesis. Lower molecular weights are used for 
+improved processability while the highest molecular weight material has improved thermal 
+resistance. 
+[Diagram of Commercially available performance polymers]
+Both thermoset and thermoplastic polymers find their most common application in the formation 
+of composite materials. The addition of glass or carbon fibre to the polymer matrix the mechanical 
+properties of the resulting material are improved. There is a significant body of work dealing with 
+the manufacture, use and degradation of these composite materials. 
+Long term use of these materials requires an understanding of how relevant properties change 
+over the desired lifetime. The rate and mechanisms of degradation for a material vary heavily 
+depending on the material and environment to which it is exposed. 
+[Document layout and logic.] 
+Mathematical modelling of these polymer systems can better our understanding of their behaviour 
+and lifetimes under a wide range of conditions. Current predictive models widely used in industry 
+use many simplifications to make calculations and experiments easier, cheaper and faster. 
+However, through this simplification accuracy is sacrificed which, for the large extrapolations 
+required, limits the effective predictive power of these models. Lifetime prediction relies on the 
+extrapolation of accelerated degradation studies to predict the point at which the measured 
+variable drops below acceptable limits. The chosen variable depends on the application under 
+consideration for the polymer. Typically, for HTHP polymers, this is some mechanical property 
+e.g. Elongation at break. 
+DEGRADATION AND ITS MEASUREMENT
+The degradation of a polymer can be caused by chemical, physical or mechanical environmental 
+stresses.  
+Chemical degradation involves any structural modification to the polymer’s backbone. This is the 
+focus of most investigation, as the macroscale properties of the material are controlled by 
+changes in the chemical structure.
+The diffusion of chemical agents into the polymer can be a controlling factor in the rate of 
+degradation. For many polymers, the diffusion of water into the sample is a good predictor of 
+degradation due to hydrolysis.  
+Physical degradation can cause changes in the mechanical properties of the polymer. Clearly this 
+can become a concern in environments where the material could be cycled above and below the 
+Tg frequently.
+Mechanical ageing occurs through the loads and stresses applied to the material in use. This may 
+occur secondary to chemical or physical ageing as the weakened material is no longer able to 
+properly handle the mechanical stresses in its use case. 
+There is little work in understanding how different mechanisms of degradation affect each other. 
+PEEK
+THERMAL DEGRADATION 
+UV DEGRADATION 
+ 
+
+
+
+
+
+ 
